@@ -1,0 +1,67 @@
+body
+{
+background-image:url(30.jpg);
+}
+
+#mymenu
+{
+background-color:white;
+color:black;
+text-align:right;
+box-shadow:20px 10px 10px 10px yellow;
+}
+
+#mydata
+{
+margin-top:10px;
+}
+
+#mymenu ul li
+{
+display:inline-block;
+text-align:left;
+padding:10px;
+}
+
+#mymenu ul li:hover
+{
+background:red;
+}
+
+#datainsert
+{
+	color:white;
+}
+
+table
+{
+background-image:url("s22.jpg");
+color: white;
+margin-top:5px;
+box-shadow:10px 10px 10px 10px cyan;
+}
+
+table:hover
+{
+
+background-image:url(s21.jpg);
+color: green;
+margin-top:5px;
+box-shadow:10px 10px 10px 10px red;
+}
+.B
+{
+width:85px;
+height:40px;
+background:linear-gradient(red,black);
+color: red;
+border-radious:0px 40px 0px 40px;
+}
+.B:hover
+{
+width:85px;
+height:40px;
+background:linear-gradient(to right black,red);
+color: white;
+border-radius: 40px 0px 40px 0px;
+}
